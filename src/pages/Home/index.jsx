@@ -49,7 +49,6 @@ function Home() {
 
   return (
     <HomeWrapper>
-      {sum(40,2)}
       <HomerContainer theme={theme}>
         <LeftCol>
           <StyledTitle theme={theme}>
